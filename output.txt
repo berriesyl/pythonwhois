@@ -1,0 +1,93 @@
+Domain: google.com
+IP Address: 172.217.169.206
+
+Whois Info:
+{
+    "domain_name": [
+        "GOOGLE.COM",
+        "google.com"
+    ],
+    "registrar": "MarkMonitor, Inc.",
+    "whois_server": "whois.markmonitor.com",
+    "referral_url": null,
+    "updated_date": [
+        "2019-09-09 15:39:04",
+        "2019-09-09 15:39:04+00:00"
+    ],
+    "creation_date": [
+        "1997-09-15 04:00:00",
+        "1997-09-15 07:00:00+00:00"
+    ],
+    "expiration_date": [
+        "2028-09-14 04:00:00",
+        "2028-09-13 07:00:00+00:00"
+    ],
+    "name_servers": [
+        "NS1.GOOGLE.COM",
+        "NS2.GOOGLE.COM",
+        "NS3.GOOGLE.COM",
+        "NS4.GOOGLE.COM",
+        "ns3.google.com",
+        "ns2.google.com",
+        "ns4.google.com",
+        "ns1.google.com"
+    ],
+    "status": [
+        "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+        "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+        "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited",
+        "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+        "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+        "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited",
+        "clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)",
+        "clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)",
+        "clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)",
+        "serverUpdateProhibited (https://www.icann.org/epp#serverUpdateProhibited)",
+        "serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited)",
+        "serverDeleteProhibited (https://www.icann.org/epp#serverDeleteProhibited)"
+    ],
+    "emails": [
+        "abusecomplaints@markmonitor.com",
+        "whoisrequest@markmonitor.com"
+    ],
+    "dnssec": "unsigned",
+    "name": null,
+    "org": "Google LLC",
+    "address": null,
+    "city": null,
+    "state": "CA",
+    "registrant_postal_code": null,
+    "country": "US"
+}
+
+Open Ports:
+80, 443
+
+RDP Info:
+RDP service is not running on 172.217.169.206:3389
+
+Google Excel Links:
+https://maps.google.com/maps%3Fq%3Dsite:google.com%2Bfiletype:xls%2BOR%2Bfiletype:xlsx%26um%3D1%26ie%3DUTF-8%26ved%3D1t:200713%26ictx%3D111
+https://www.google.com/help/hc/downloads/richmedia/rich_media_spec_collection_template.xls
+/search%3Fq%3Dsite:google.com%2Bfiletype:xls%2BOR%2Bfiletype:xlsx%26sca_esv%3D53fb4b19e0a33516%26sca_upv%3D1%26ie%3DUTF-8%26filter%3D0
+https://accounts.google.com/ServiceLogin%3Fcontinue%3Dhttps://www.google.com/search%253Fq%253Dsite:google.com%252Bfiletype:xls%252BOR%252Bfiletype:xlsx%26hl%3Dtr
+
+Site Links:
+https://www.google.com/imghp?hl=tr&tab=wi
+http://maps.google.com.tr/maps?hl=tr&tab=wl
+https://play.google.com/?hl=tr&tab=w8
+https://news.google.com/?tab=wn
+https://mail.google.com/mail/?tab=wm
+https://drive.google.com/?tab=wo
+https://www.google.com.tr/intl/tr/about/products?tab=wh
+http://www.google.com.tr/history/optout?hl=tr
+/preferences?hl=tr
+https://accounts.google.com/ServiceLogin?hl=tr&passive=true&continue=http://www.google.com/&ec=GAZAAQ
+/search?sca_esv=53fb4b19e0a33516&ie=UTF-8&q=olimpiyatlar&oi=ddle&ct=308474049&hl=tr&sa=X&ved=0ahUKEwi-9_qxsMWHAxWS1zgGHT_GDsgQPQgD
+/advanced_search?hl=tr&authuser=0
+/intl/tr/ads/
+http://www.google.com.tr/intl/tr/services/
+/intl/tr/about.html
+http://www.google.com/setprefdomain?prefdom=TR&prev=http://www.google.com.tr/&sig=K_tOOcmI_pjx6nrUFV8spVNSS7uoI%3D
+/intl/tr/policies/privacy/
+/intl/tr/policies/terms/
