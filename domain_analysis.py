@@ -7,7 +7,7 @@ from bs4 import BeautifulSoup
 
 def get_ip(domain):
     
-    #IP adresini bulur.
+    #Find IP address
 
     try:
         return socket.gethostbyname(domain)
@@ -16,7 +16,7 @@ def get_ip(domain):
 
 def get_whois_info(domain):
     
-    #WHOIS bilgisini getirir.
+    #Get WHOIS Info
     
     try:
         w = whois.whois(domain)
@@ -26,7 +26,7 @@ def get_whois_info(domain):
 
 def scan_ports(ip):
     
-    #Önemli portları tarar.
+    #Scan important ports.
     
     open_ports = []
     ports_to_scan = [21, 22, 23, 25, 53, 80, 110, 143, 443, 8080, 3389] 
@@ -41,7 +41,7 @@ def scan_ports(ip):
     return open_ports
 
 def rdp_info(ip):
-    # RDP servisini kontrol eder ve bilgi döndürür.
+    # Control RDP service and get info
     port = 3389
     sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
     sock.settimeout(1)
@@ -54,7 +54,7 @@ def rdp_info(ip):
 
 def google_search(domain):
    
-    #Excel linkleri için google araması
+    #Google search for Excel files
     
     query = f"site:{domain} filetype:xls OR filetype:xlsx"
     search_url = f"https://www.google.com/search?q={query}"
@@ -64,7 +64,7 @@ def google_search(domain):
 
 def get_site_links(domain):
     
-    #Verilen domain ile ilgili linkleri getirir.
+    #Get related links about domain.
     
     links = []
     try:
